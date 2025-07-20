@@ -21,10 +21,11 @@ AI Food Recipe Assistant is a modern web application that helps users generate d
 
 ## 📁 Project Structure
 ```
-AI-FOOD-RECIPE-ASSISTANT/ │ ├── project/ │
-├── dist/                   # Production build output │
-├── node_modules/           # Installed dependencies │
-├── src/                    # Application source code │
+AI-FOOD-RECIPE-ASSISTANT
+├── project/ 
+├── dist/                   # Production build output 
+├── node_modules/           # Installed dependencies 
+├── src/                    # Application source code 
 ├── .env                        # Environment variables
 ├── .gitignore                  # Git ignore rules
 ├── index.html                  # Main HTML file
